@@ -107,6 +107,7 @@ They exist to document what may be implemented by [Nostr](https://github.com/nos
 - [NIP-C0: Code Snippets](C0.md)
 - [NIP-C7: Chats](C7.md)
 - [NIP-EE: E2EE Messaging using MLS Protocol](EE.md)
+- [NIP-XX: Generic Data Packages](xx.md)
 
 ## Event Kinds
 | kind          | description                     | NIP                                    |
@@ -272,6 +273,7 @@ They exist to document what may be implemented by [Nostr](https://github.com/nos
 | `39089`       | Starter packs                   | [51](51.md)                            |
 | `39092`       | Media starter packs             | [51](51.md)                            |
 | `39701`       | Web bookmarks                   | [B0](B0.md)                            |
+| `40000`       | Generic Data Packages           | [xx](xx.md)                            |
 
 [NUD: Custom Feeds]: https://wikifreedia.xyz/cip-01/
 [nostrocket]: https://github.com/nostrocket/NIPS/blob/main/Problems.md
