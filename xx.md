@@ -1,7 +1,5 @@
 # NIP-XX: Generic Data Packages for Nostr
 
-## NIP: XX
-
 ## Title: Generic Data Packages for Nostr
 
 ## Author: Jurjen van Genugten
@@ -42,7 +40,7 @@ For now it introduces a namespace of `dp:*` tags for describing metadata (e.g., 
 
 ### Event Kind
 
-* Proposed new kind: `5000` (“Data Package”).
+* Proposed new kind: `40000` (“Data Package”).
 
 ### Event Content
 
